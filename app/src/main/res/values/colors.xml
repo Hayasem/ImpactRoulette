@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Cores personalizadas-->
+    <color name="azul_primario">#A9E6E3</color>
+    <color name="azul_claro">#11E0DE</color>
+    <color name="azul_escuro">#08615F</color>
+    <color name="vermelho_secundario">#FF4D4D</color>
+
+<!--Cores coringas-->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+</resources>
