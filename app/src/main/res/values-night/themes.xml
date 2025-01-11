@@ -3,8 +3,8 @@
     <style name="Base.Theme.ImpactRoulette" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
         <item name="colorPrimary">@color/azul_escuro</item>
-        <item name="colorSecondary">@color/azul_claro</item>
-        <item name="colorOnPrimary">@color/vermelho_secundario</item>
+        <item name="colorSecondary">@color/vermelho_secundario</item>
+        <item name="colorOnPrimary">@color/azul_claro</item>
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
     </style>
 </resources>
